@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c166cda-6265-4bbf-80f3-30fb1e6b13f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ycbov08Dgy2wnhjMpjzyU70ied" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/logs" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GroupByStructuredStream">
+    <configuration name="GroupByStructuredStream" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.GroupByStructuredStream" />
+      <module name="Spark-Apache-Log-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseAndPrintLogs" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.ParseAndPrintLogs" />
+      <module name="Spark-Apache-Log-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RDDSparkSQL" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.RDDSparkSQL" />
+      <module name="Spark-Apache-Log-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StructuredStreaming" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.StructuredStreaming" />
+      <module name="Spark-Apache-Log-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.Test" />
+      <module name="Spark-Apache-Log-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GroupByStructuredStream" />
+        <item itemvalue="Application.StructuredStreaming" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RDDSparkSQL" />
+        <item itemvalue="Application.ParseAndPrintLogs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Spark-Apache-Log-Streaming-Service" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-apache-log-streaming-service [file:/home/Jason/Desktop/Capstone/Spark-Apache-Log-Streaming-Service/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Spark-Apache-Log-Streaming-Service-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3166490502649" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="551038532" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1756732318" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/Scala/Spark-Dev" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Scala/exercises-applied" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Scala/exercises-applied2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c166cda-6265-4bbf-80f3-30fb1e6b13f4" name="Default Changelist" comment="" />
+      <created>1583245007045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583245007045</updated>
+      <workItem from="1583245009669" duration="3671000" />
+      <workItem from="1583257615371" duration="3195000" />
+      <workItem from="1583267281486" duration="16987000" />
+      <workItem from="1583331607586" duration="1469000" />
+      <workItem from="1583341278468" duration="501000" />
+      <workItem from="1583345967862" duration="599000" />
+      <workItem from="1583427318777" duration="599000" />
+      <workItem from="1583509305053" duration="599000" />
+      <workItem from="1583527655433" duration="1181000" />
+      <workItem from="1583532020774" duration="300000" />
+      <workItem from="1583599360871" duration="240000" />
+      <workItem from="1583600750695" duration="302000" />
+      <workItem from="1583621980899" duration="577000" />
+      <workItem from="1583668252986" duration="599000" />
+      <workItem from="1583782503878" duration="1329000" />
+      <workItem from="1583853239502" duration="599000" />
+      <workItem from="1583862595623" duration="599000" />
+      <workItem from="1583874312382" duration="2332000" />
+      <workItem from="1583932630144" duration="599000" />
+      <workItem from="1584046415689" duration="599000" />
+      <workItem from="1584064372496" duration="599000" />
+      <workItem from="1584124859610" duration="599000" />
+      <workItem from="1584147025985" duration="599000" />
+      <workItem from="1584171418007" duration="605000" />
+      <workItem from="1584208057996" duration="599000" />
+      <workItem from="1584275250306" duration="327000" />
+      <workItem from="1584278217069" duration="599000" />
+      <workItem from="1584281824571" duration="599000" />
+      <workItem from="1584291321251" duration="599000" />
+      <workItem from="1584363332222" duration="597000" />
+      <workItem from="1584365651953" duration="595000" />
+      <workItem from="1584376387052" duration="597000" />
+      <workItem from="1584452708493" duration="598000" />
+      <workItem from="1584533857111" duration="405000" />
+      <workItem from="1584553961557" duration="598000" />
+      <workItem from="1584756305138" duration="601000" />
+      <workItem from="1585002078685" duration="597000" />
+      <workItem from="1585143926413" duration="619000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="295" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583285954699">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="693" y="295" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1583285954699" />
+    <state x="768" y="243" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1583285654183">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="768" y="243" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1018@0.28.1920.1018" timestamp="1583285654183" />
+    <state x="738" y="283" width="424" height="522" key="FileChooserDialogImpl" timestamp="1583599699615">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="738" y="283" width="424" height="522" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1583599699615" />
+    <state width="1872" height="241" key="GridCell.Tab.0.bottom" timestamp="1583530828315">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1872" height="241" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1583530828315" />
+    <state width="1872" height="241" key="GridCell.Tab.0.center" timestamp="1583530828315">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1872" height="241" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1583530828315" />
+    <state width="1872" height="241" key="GridCell.Tab.0.left" timestamp="1583530828314">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1872" height="241" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1583530828314" />
+    <state width="1872" height="241" key="GridCell.Tab.0.right" timestamp="1583530828315">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1872" height="241" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1583530828315" />
+    <state x="443" y="114" width="1024" height="852" key="SettingsEditor" timestamp="1583874345707">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="443" y="114" width="1024" height="852" key="SettingsEditor/0.28.1920.1018@0.28.1920.1018" timestamp="1583874345707" />
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1583599426227">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1583599426227" />
+    <state x="603" y="247" width="714" height="580" key="find.popup" timestamp="1583282720151">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="603" y="247" width="714" height="580" key="find.popup/0.28.1920.1018@0.28.1920.1018" timestamp="1583282720151" />
+    <state x="624" y="244" key="run.anything.popup" timestamp="1583286519203">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="624" y="244" key="run.anything.popup/0.28.1920.1018@0.28.1920.1018" timestamp="1583286519203" />
+  </component>
+</project>
