@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9bed325-48f3-475f-979c-9eaee34e5702" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Spark-Twitter-Streaming-Service" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YOfYiHbWSAXlXeacJWYQVHCWb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Java/Spring/currency-conversion-service" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41100705" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/avro" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PopularHashtagsRanking">
+    <configuration name="AverageTweetLength" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.AverageTweetLength" />
+      <module name="Spark-Twitter-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PopularHashtagsRanking" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.PopularHashtagsRanking" />
+      <module name="Spark-Twitter-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintTweets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.PrintTweets" />
+      <module name="Spark-Twitter-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveTweets" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasonleetoronto.SaveTweets" />
+      <module name="Spark-Twitter-Streaming-Service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jasonleetoronto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Spark-Streaming-Demo-build" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Spark-Streaming-Demo-build" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PopularHashtagsRanking" />
+        <item itemvalue="Application.PrintTweets" />
+        <item itemvalue="Application.AverageTweetLength" />
+        <item itemvalue="Application.SaveTweets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Spark-Twitter-Streaming-Service" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="spark-twitter-streaming-service [file:/home/Jason/Desktop/Capstone/Spark-Twitter-Streaming-Service/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Spark-Twitter-Streaming-Service-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3166063535689" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1539789045" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1756732318" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../Spark-Dev" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercises-applied" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../exercises-applied2" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9bed325-48f3-475f-979c-9eaee34e5702" name="Default Changelist" comment="" />
+      <created>1582818610558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582818610558</updated>
+      <workItem from="1582818613445" duration="3447000" />
+      <workItem from="1582830461938" duration="3741000" />
+      <workItem from="1582848584838" duration="16796000" />
+      <workItem from="1583243548629" duration="10000" />
+      <workItem from="1583243771097" duration="961000" />
+      <workItem from="1583244773672" duration="3449000" />
+      <workItem from="1583257615266" duration="2602000" />
+      <workItem from="1583267276376" duration="2531000" />
+      <workItem from="1583331606783" duration="599000" />
+      <workItem from="1583341278469" duration="501000" />
+      <workItem from="1583345967655" duration="599000" />
+      <workItem from="1583427318819" duration="599000" />
+      <workItem from="1583509304791" duration="599000" />
+      <workItem from="1583527656068" duration="1096000" />
+      <workItem from="1583600750173" duration="303000" />
+      <workItem from="1583621988432" duration="570000" />
+      <workItem from="1583668245060" duration="1137000" />
+      <workItem from="1583782504598" duration="599000" />
+      <workItem from="1583853227837" duration="599000" />
+      <workItem from="1583862596455" duration="599000" />
+      <workItem from="1586390364004" duration="618000" />
+      <workItem from="1587127335628" duration="599000" />
+      <workItem from="1587633309609" duration="597000" />
+      <workItem from="1588192799796" duration="1975000" />
+      <workItem from="1588284495244" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="295" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582822030575">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="693" y="295" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1582822030575" />
+    <state x="418" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588252002830">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="418" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1588252002830" />
+    <state x="768" y="243" width="374" height="594" key="#com.intellij.ide.util.MemberChooser" timestamp="1582913273993">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="768" y="243" width="374" height="594" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1018@0.28.1920.1018" timestamp="1582913273993" />
+    <state x="743" y="295" width="424" height="491" key="FileChooserDialogImpl" timestamp="1588252027136">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="743" y="295" width="424" height="491" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1588252027136" />
+    <state width="1310" height="190" key="GridCell.Tab.0.bottom" timestamp="1583600892074">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1310" height="190" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1583600892074" />
+    <state width="1310" height="190" key="GridCell.Tab.0.center" timestamp="1583600892074">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1310" height="190" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1583600892074" />
+    <state width="1310" height="190" key="GridCell.Tab.0.left" timestamp="1583600892073">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1310" height="190" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1583600892073" />
+    <state width="1310" height="190" key="GridCell.Tab.0.right" timestamp="1583600892074">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1310" height="190" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1583600892074" />
+    <state x="757" y="238" width="1007" height="737" key="SettingsEditor" timestamp="1583244730446">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="757" y="238" width="1007" height="737" key="SettingsEditor/0.28.1920.1018@0.28.1920.1018" timestamp="1583244730446" />
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1588192837674">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="624" y="364" key="com.intellij.ide.util.TipDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1588192837674" />
+    <state x="282" y="263" width="1345" height="554" key="new project wizard" timestamp="1583245006646">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="282" y="263" width="1345" height="554" key="new project wizard/0.28.1920.1018@0.28.1920.1018" timestamp="1583245006646" />
+  </component>
+</project>

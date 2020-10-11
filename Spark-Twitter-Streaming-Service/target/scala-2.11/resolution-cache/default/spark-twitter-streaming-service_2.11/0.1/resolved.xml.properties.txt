@@ -1,0 +1,10 @@
+#default#spark-twitter-streaming-service_2.11;0.1 resolved revisions
+#Tue Mar 03 09:15:43 EST 2020
++organisation\:\#@\#\:+com.typesafe\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+config\:\#@\#\:+revision\:\#@\#\:+1.4.0\:\#@\#\:=1.4.0 release 1.4.0 null
++organisation\:\#@\#\:+org.apache.spark\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+spark-core_2.11\:\#@\#\:+revision\:\#@\#\:+2.0.1\:\#@\#\:=2.0.1 release 2.0.1 null
++organisation\:\#@\#\:+org.apache.bahir\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+spark-streaming-twitter_2.11\:\#@\#\:+revision\:\#@\#\:+2.0.1\:\#@\#\:=2.0.1 release 2.0.1 null
++organisation\:\#@\#\:+org.apache.spark\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+spark-streaming_2.11\:\#@\#\:+revision\:\#@\#\:+2.0.1\:\#@\#\:=2.0.1 release 2.0.1 null
++organisation\:\#@\#\:+org.scala-lang\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+scala-library\:\#@\#\:+revision\:\#@\#\:+2.11.6\:\#@\#\:=2.11.6 ? 2.11.6 null
++organisation\:\#@\#\:+org.apache.spark\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+spark-hive_2.11\:\#@\#\:+revision\:\#@\#\:+2.0.1\:\#@\#\:=2.0.1 release 2.0.1 null
++organisation\:\#@\#\:+org.scala-lang\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+scala-compiler\:\#@\#\:+revision\:\#@\#\:+2.11.6\:\#@\#\:=2.11.6 release 2.11.6 null
++organisation\:\#@\#\:+org.apache.spark\:\#@\#\:+branch\:\#@\#\:+@\#\:NULL\:\#@\:\#@\#\:+module\:\#@\#\:+spark-sql_2.11\:\#@\#\:+revision\:\#@\#\:+2.0.1\:\#@\#\:=2.0.1 release 2.0.1 null
