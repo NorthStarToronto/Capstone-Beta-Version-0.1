@@ -1,0 +1,16 @@
+# Configure Postgres Data Source
+spring.datasource.url=jdbc:postgresql://localhost:5432/hr
+spring.datasource.username=docker
+spring.datasource.password=docker
+spring.jpa.show-sql=true
+
+# Turn Statistics On
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.properties.hibernate.generate_statistcis=true
+logging.level.org.hibernate.stat=debug
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hiberante.format_sql=true
+logging.level.org.hibernate.type=trace
+
+#Show all queries
