@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-kstream-service
+
+spring.cloud.stream.kafka.streams.binder.configuration.default:
+  key.serde: io.confluent.kafka.streams.serdes.avro.SpecificAvroSerde
+  value.serde: io.confluent.kafka.streams.serdes.avro.SpecificAvroSerde
+
