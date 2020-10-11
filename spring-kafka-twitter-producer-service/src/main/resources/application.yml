@@ -1,0 +1,31 @@
+topic:
+  name: tweet-us-election-new
+server:
+  port: 9080
+spring:
+  kafka:
+    bootstrap-servers:
+      - localhost:9092
+    properties:
+      schema.registry.url: http://localhost:8081
+    consumer:
+      group-id: group_id
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: io.confluent.kafka.serializers.KafkaAvroDeserializer
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: io.confluent.kafka.serializers.KafkaAvroSerializer
+    template:
+      default-topic:
+logging:
+  level:
+    root: info
+
+twitter.client.config:
+  consumer.key: kxMQOMxXDhjEZOIono9hKL30K
+  consumer.secret: 0JRwgzBWrgrV7KOpPKOVtItbz8SCS1pNPAMzSyTATh1PEWHeMv
+  access.token: 1011757844234768384-SYtJuhNDxTf7YutJQ9vW7agCaMKILv
+  access.secret: kLFOu0EKgDPQRGvxCMuwCm9gmAQx8WlglP2XMgcuxm0Nd
+  track-terms: Trump, Bernie, Buttigieg
+  queue-size: 1000

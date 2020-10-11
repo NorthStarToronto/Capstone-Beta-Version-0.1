@@ -1,0 +1,31 @@
+{
+    "type": "record",
+    "name": "Tweet",
+    "namespace": "com.jasonleetoronto",
+    "version": "1",
+    "fields": [
+        {"name": "created_at", "type":  "string","avro.java.string": "String", "default": "", "doc": "Created date time of the tweet"},
+        {"name": "text", "type":  "string", "avro.java.string": "String", "default": "", "doc": "Tweet text"},
+        {"name": "user",
+            "type":  {
+                "type": "record",
+                "name": "User",
+                "fields": [
+                        {"name": "id", "type":  "long", "doc": "User ID"},
+                        {"name": "name", "type":  "string", "avro.java.string": "String", "default": "", "doc": "User Name"},
+                        {"name": "followers_count", "type":  "long", "default": 0, "doc": "Number of Followers"},
+                        {"name": "friends_count", "type":  "long", "default": 0, "doc": "Number of Followings"},
+                        {"name": "listed_count", "type":  "long", "default": 0, "doc": "Number of Subscribed Groups"},
+                        {"name": "favourites_count", "type":  "long", "default": 0, "doc": "Number of Favourites"},
+                        {"name": "created_at", "type":  "string", "avro.java.string": "String", "default": "", "doc": "Tweet text"}
+                        ]},
+            "doc": "User Schema Definition"
+        },
+        {"name": "quote_count", "type": "long", "default": 0, "doc": "Number of Quotes"},
+        {"name": "reply_count", "type": "long", "default": 0, "doc": "Number of Replies"},
+        {"name": "retweet_count", "type": "long", "default": 0, "doc": "Number of Retweets"},
+        {"name": "favorited", "type": "boolean", "default": false, "doc": "Favorited Status"},
+        {"name": "retweeted", "type": "boolean", "default": false, "doc": "Retweeted Status"},
+        {"name": "timestamp_ms", "type": "string", "avro.java.string": "String", "default": "", "doc": "Timestamp in milliseconds"}
+    ]
+}
