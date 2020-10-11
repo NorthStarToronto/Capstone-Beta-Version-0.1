@@ -1,0 +1,7 @@
+spring.application.name=spring-cassandra-payment-service
+spring.data.cassandra.contact-points=localhost
+spring.data.cassandra.port=9042
+spring.data.cassandra.keyspace-name=sales
+spring.data.cassandra.basepackage=com.jasonleetoronto.capstone.springcassandrapaymentservice.model
+spring.data.cassandra.schema-action=create_if_not_exists
+spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
